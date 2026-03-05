@@ -247,7 +247,7 @@ Identify the lesion.`,
 
   {
     id: 18,
-    image: "images/q18.jpeg",
+    image: "",
     question: `A 46-year-old woman has a 2.5 cm lump in the upper outer quadrant of right breast with one palpable right axillary node. Which is the most likely first draining nodal basin?`,
     options: [
       "Internal mammary (parasternal) nodes",
@@ -261,7 +261,7 @@ Identify the lesion.`,
 
   {
     id: 19,
-    image: "images/q19.jpeg",
+    image: "",
     question: `A 45-year-old woman has an 8 cm breast mass with skin edema (peau d’orange), mobile ipsilateral axillary nodes and a palpable ipsilateral supraclavicular node. No distant metastasis.
 
 What is the stage group?`,
@@ -272,7 +272,7 @@ What is the stage group?`,
 
   {
     id: 20,
-    image: "images/q20.jpeg",
+    image: "",
     question: `A 58-year-old postmenopausal woman undergoes BCS for a 1.2 cm IDC, node-negative, ER/PR+, HER2-, unifocal, margins negative, no LVI. She asks about shorter RT schedules.
 
 Best statement?`,
@@ -288,7 +288,7 @@ Best statement?`,
 
   {
     id: 21,
-    image: "images/q21.jpeg",
+    image: "",
     question: `A 60-year-old woman has chronic eczema-like changes of nipple-areola complex with occasional serosanguinous discharge. Biopsy shows large pale vacuolated cells within epidermis.
 
 Most appropriate statement?`,
@@ -305,7 +305,7 @@ Most appropriate statement?`,
 
   {
     id: 22,
-    image: "images/q22.jpeg",
+    image: "",
     question: `A 28-year-old man undergoes open splenectomy for trauma. Hemostasis was secured. Four hours later he develops tachycardia, falling BP, and increasing drain output with fresh blood.
 
 MOST likely type of hemorrhage?`,
@@ -316,7 +316,7 @@ MOST likely type of hemorrhage?`,
 
   {
     id: 23,
-    image: "images/q23.jpeg",
+    image: "",
     question: `A 55-year-old man with urosepsis has warm extremities, bounding pulse, wide pulse pressure, tachycardia, hypotension, high lactate.
 
 Which hemodynamic pattern fits early/warm septic shock?`,
@@ -332,7 +332,7 @@ Which hemodynamic pattern fits early/warm septic shock?`,
 
   {
     id: 24,
-    image: "images/q24.jpeg",
+    image: "",
     question: `A trauma patient arrives with HR 128/min, RR 32/min, confused, cold clammy extremities, and urine output 10 mL/hr.
 
 Estimated blood loss corresponds to which ATLS class of hemorrhagic shock?`,
@@ -343,7 +343,7 @@ Estimated blood loss corresponds to which ATLS class of hemorrhagic shock?`,
 
   {
     id: 25,
-    image: "images/q25.jpeg",
+    image: "",
     question: `A 24-year-old woman with acute gastroenteritis has tachycardia, delayed capillary refill, cool extremities, RR 26/min, BP 110/70. She is anxious but oriented.
 
 Which statement is TRUE?`,
@@ -360,7 +360,7 @@ Which statement is TRUE?`,
 
   {
     id: 26,
-    image: "images/q26.jpeg",
+    image: "",
     question: `A 72-year-old diabetic man with fever and dysuria has RR 28/min, BP 88/54, HR 124, altered mentation (GCS 13). Suspected urosepsis.
 
 BEST immediate next step?`,
@@ -376,7 +376,7 @@ BEST immediate next step?`,
 
   {
     id: 27,
-    image: "images/q27.jpeg",
+    image: "",
     question: `A 30-year-old man develops high fever and hypotension after abdominal perforation. Extremities are warm, bounding pulse, wide pulse pressure. CVP is low-normal.
 
 Which hemodynamic profile fits BEST?`,
@@ -392,7 +392,7 @@ Which hemodynamic profile fits BEST?`,
 
   {
     id: 28,
-    image: "images/q28.jpeg",
+    image: "",
     question: `A 42-year-old woman has a suspicious pigmented lesion (ABCDE positive). Which immunohistochemical marker is LEAST likely to be positive in melanoma?`,
     options: ["S-100", "HMB-45", "Vimentin", "Cytokeratin-20"],
     answerIndex: 3,
@@ -401,7 +401,7 @@ Which hemodynamic profile fits BEST?`,
 
   {
     id: 29,
-    image: "images/q29.jpeg",
+    image: "",
     question: `A 58-year-old man has a 2.2 cm SCC of lower lip with perineural invasion.
 
 Best management plan?`,
@@ -418,7 +418,7 @@ Best management plan?`,
 
   {
     id: 30,
-    image: "images/q30.jpeg",
+    image: "",
     question: `Brodie–Trendelenburg test: after emptying veins and applying thigh tourniquet, superficial veins fill rapidly from below even with tourniquet on; releasing tourniquet produces no sudden gush from above.
 
 Most likely site of incompetence?`,
@@ -434,7 +434,7 @@ Most likely site of incompetence?`,
 
   {
     id: 31,
-    image: "images/q31.jpeg",
+    image: "",
     question: `A 19-year-old girl has unilateral limb hypertrophy, prominent varicosities since childhood, and a large port-wine stain. Duplex suggests superficial venous malformation.
 
 Most likely diagnosis?`,
@@ -445,7 +445,7 @@ Most likely diagnosis?`,
 
   {
     id: 32,
-    image: "images/q32.jpeg",
+    image: "",
     question: `A 46-year-old woman with long-standing varicose veins has ankle pigmentation, eczema and lipodermatosclerosis. No active ulcer currently.
 
 CEAP Clinical (C) class?`,
@@ -456,7 +456,7 @@ CEAP Clinical (C) class?`,
 
   {
     id: 33,
-    image: "images/q33.jpeg",
+    image: "",
     question: `A 58-year-old man has unilateral calf swelling and pain 10 days after major surgery. Modified Wells score indicates DVT is likely.
 
 BEST next step?`,
@@ -472,7 +472,7 @@ BEST next step?`,
 
   {
     id: 34,
-    image: "images/q34.jpeg",
+    image: "",
     question: `A 52-year-old chronic smoker has buttock/thigh claudication relieved by rest and erectile dysfunction. Femoral pulses are weak bilaterally.
 
 Most likely diagnosis?`,
@@ -488,7 +488,7 @@ Most likely diagnosis?`,
 
   {
     id: 35,
-    image: "images/q35.jpeg",
+    image: "",
     question: `A 56-year-old smoker/diabetic has intermittent claudication, ABI 0.72, femoro-popliteal atherosclerotic disease. No rest pain/ulcer/gangrene.
 
 Best initial management to improve symptoms and reduce CV risk?`,
@@ -504,7 +504,7 @@ Best initial management to improve symptoms and reduce CV risk?`,
 
   {
     id: 36,
-    image: "images/q36.jpeg",
+    image: "",
     question: `A patient with severe rest pain and small ischemic toe ulcers has diffuse distal tibial disease not amenable to bypass. Surgeon suggests lumbar sympathectomy.
 
 Which statement is TRUE?`,
@@ -520,7 +520,7 @@ Which statement is TRUE?`,
 
   {
     id: 37,
-    image: "images/q37.jpeg",
+    image: "",
     question: `A 62-year-old man with atrial fibrillation develops sudden severe leg pain, pallor, coldness, pulselessness with sensory/motor deficit (acute limb ischemia) starting 4 hours ago.
 
 Best next step?`,
@@ -536,7 +536,7 @@ Best next step?`,
 
   {
     id: 38,
-    image: "images/q38.jpeg",
+    image: "",
     question: `A 59-year-old man gets dizziness and visual blurring during left arm exertion. BP is 25 mmHg lower in left arm; bruit over left supraclavicular area; proximal left subclavian stenosis on duplex.
 
 Which statement is TRUE?`,
@@ -552,7 +552,7 @@ Which statement is TRUE?`,
 
   {
     id: 39,
-    image: "images/q39.jpeg",
+    image: "",
     question: `A 71-year-old male smoker has an incidental infrarenal AAA on ultrasound measuring 5.8 cm and is asymptomatic.
 
 Best management?`,
@@ -568,7 +568,7 @@ Best management?`,
 
   {
     id: 40,
-    image: "images/q40.jpeg",
+    image: "",
     question: `A 48-year-old man has sudden tearing chest pain radiating to the back with BP 210/120 and widened mediastinum—suspected aortic dissection.
 
 Best initial medical management while preparing definitive care?`,
